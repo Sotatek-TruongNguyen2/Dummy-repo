@@ -1,3 +1,3 @@
 const path = require('path');
 
-const a = b;
+console.log('Lavilo');
