@@ -1,6 +1,6 @@
 const fs = require('fs');
 
 
-fs.read("lol", async () => {
+fs.read("dump.txt", async () => {
 
 })
